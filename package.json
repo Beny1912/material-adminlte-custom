@@ -1,6 +1,6 @@
 {
   "name": "material-adminlte-custom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/js/adminlte.min.js",
   "scripts": {
