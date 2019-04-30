@@ -1,3 +1,9 @@
+Notice
+============
+It is a customized copy for own use to the great library **[AdminLTE](https://github.com/almasaeed2010/AdminLTE)** .
+
+All credits are for DucThanhNguyen.
+
 
 Introduction
 ============
